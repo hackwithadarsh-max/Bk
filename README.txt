@@ -1,0 +1,1 @@
+Use Socket.IO backend. Replace BroadcastChannel in HTML with Socket.IO client.
